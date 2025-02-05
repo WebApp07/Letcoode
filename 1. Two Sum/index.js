@@ -1,4 +1,4 @@
-var twoSum = function () {
+var sumTwo = function () {
   let nums = [1, 2, 5, 7];
   nums.forEach(function (num) {
     console.log(num);
@@ -6,4 +6,4 @@ var twoSum = function () {
   });
 };
 
-twoSum();
+sumTwo();
