@@ -11,3 +11,4 @@ var majorityElement = function (nums) {
   }
   return m;
 };
+majorityElement()
